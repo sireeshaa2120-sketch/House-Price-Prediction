@@ -1,0 +1,4 @@
+House Price Prediction Model
+============================
+Price per square foot: 5931.757950968613
+Model type: Regression-based price prediction
